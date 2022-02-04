@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Git-Hub-Finder/static/css/main.a6aa9fb6.css",
+    "main.js": "/Git-Hub-Finder/static/js/main.ed18a4cc.js",
+    "index.html": "/Git-Hub-Finder/index.html",
+    "main.a6aa9fb6.css.map": "/Git-Hub-Finder/static/css/main.a6aa9fb6.css.map",
+    "main.ed18a4cc.js.map": "/Git-Hub-Finder/static/js/main.ed18a4cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6aa9fb6.css",
+    "static/js/main.ed18a4cc.js"
+  ]
+}
