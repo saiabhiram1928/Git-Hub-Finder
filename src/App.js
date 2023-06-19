@@ -25,7 +25,7 @@ const App = () => {
   <Route path="/Git-Hub-Finder" element ={<Home/>}/>
   <Route path='/users/:login' element={<User/>}/>
   <Route path="/Notfound"  element={<Error/>}/>
-  <Route path="/*"  element={<Error/>}/>
+  <Route path="/*"  element={<Home/>}/>
 
   </Routes>
 </main>
