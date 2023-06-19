@@ -22,10 +22,10 @@ const App = () => {
 <Routes>
   <Route path="/Explore" element={<Explore/>}/>
   <Route path="/" element={<Home/>}/>
-  <Route path="/Git-Hub-Finder" element ={<Home/>}/>
+  <Route path="/*" element ={<Home/>}/>
   <Route path='/users/:login' element={<User/>}/>
   <Route path="/Notfound"  element={<Error/>}/>
-  <Route path="/*"  element={<Home/>}/>
+  {/* <Route path="/*"  element={<Error/>}/> */}
 
   </Routes>
 </main>
